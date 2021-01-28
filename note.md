@@ -9,6 +9,7 @@ Just for test tasks.
 
 调试信息：
 
+
 ```
 Debug:(task.cpp:53) run task "Initialize" "git init"
 Debug:(task.cpp:61) "Initialized empty Git repository in C:/Users/tootal/Documents/Projects/build-vnote-Desktop_Qt_5_12_10_MSVC2017_64bit-Debug/src/.git/\nhint: Using 'master' as the name for the initial branch. This default branch name\nhint: is subject to change. To configure the initial branch name to use in all\nhint: of your new repositories, which will suppress this warning, call:\nhint: \nhint: \tgit config --global init.defaultBranch <name>\nhint: \nhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and\nhint: 'development'. The just-created branch can be renamed via this command:\nhint: \nhint: \tgit branch -m <name>\n"
